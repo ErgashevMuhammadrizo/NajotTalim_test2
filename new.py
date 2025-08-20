@@ -1,0 +1,1 @@
+print("calabraatsiya bo'ldi")
